@@ -1,0 +1,28 @@
+<?xml version="1.0"  encoding="UTP-8"?>
+<?xml-stylesheet type="text/css" href="p5.css"?>
+<students>
+<student>
+<name>Name:jyothi  yk</name>
+<usn>Usn:4vv17cs409</usn>
+<college>College:vvce</college>
+<branch>Branch:computer science and engineering</branch>
+<year>Year:2020</year>
+<e-mail>E-mail:jyothiykgowda@gmail.com</e-mail>
+</student>
+<student>
+<name>Name:Bhoomika p</name>
+<usn>Usn:4vv17cs403</usn>
+<college>College:vvce</college>
+<branch>Branch:computer science and engineering</branch>
+<year>Year:2020</year>
+<e-mail>E-mail:bhoomikap@gmail.com</e-mail>
+</student>
+<student>
+<name>Name:Deepika s</name>
+<usn>Usn:4vv17cs407</usn>
+<college>College:vvce</college>
+<branch>Branch:computer science and engineering</branch>
+<year>Year:2020</year>
+<e-mail>E-mail:deepikagowda@gmail.com</e-mail>
+</student>
+</students>
